@@ -4,12 +4,12 @@ spring:
       client:
         registration:
           facebook:
-            clientId: 1078211336709534
-            clientSecret: 195fc5a713adf86b3446b62c1e0ca0ae
+            clientId: <ADD CLIENT ID>
+            clientSecret: <ADD CLIENT SECRET>
 
           google:
-            clientId: 928362143725-04dp1tetng7r4cjqd5mg2ug923k7vg3j.apps.googleusercontent.com
-            clientSecret: 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
+            clientId: <ADD CLIENT ID>
+            clientSecret: <ADD CLIENT SECRET>
 
 server:
   port: 9191
